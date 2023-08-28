@@ -3,6 +3,7 @@ import React from "react";
 import Header from "../../Components/Header";
 import Banner from "../../Components/Banner";
 import Myselfie from "../../Components/MySelfie";
+import Historic from "../../Components/Historic";
 
 function Home() {
   return (
@@ -10,6 +11,7 @@ function Home() {
     <Header/>
     <Banner/>
     <Myselfie/>
+    <Historic/>
     </>
   ); 
 }
