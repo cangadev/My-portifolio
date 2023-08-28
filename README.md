@@ -1,4 +1,4 @@
-# 👋 App_Condomínio 👨‍✈️
+# 👋 My_portifolio 👨‍✈️
 
 
 ## 📄 Objectivo Geral 📄
@@ -7,7 +7,7 @@
 
 ## Outros Objectivos! 📑
 
-Trabalhos Estes que sao exercidos em Angola e não só.📌
+Descrição indisponivel.📌
 
 
 # Desenvolvimento 🚧🚧
