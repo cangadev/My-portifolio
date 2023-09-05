@@ -1,15 +1,5 @@
 # 👋 My_portifolio 👨‍✈️
 
-## Funcionalidades
+## 📄 Descrição Geral 📄
 
-## 📄 Objectivo Geral 📄
 
-🚩Descrição Indisponível🗼
-
-## Outros Objectivos! 📑
-
-Descrição indisponivel.📌
-
-# Desenvolvimento 🚧🚧
-
-Descrição Indisponível
