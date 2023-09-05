@@ -8,8 +8,8 @@ I am in constant learning solving daily challenges. <br><br>
 This is my professional portfolio made with ReactJs, where you can find out more about my
 skills.<br>
 ### How to open?
-1* Open your terminal and type: Git clone path-url<br>
-2* Type: cd open enter the project<br>
+1* Open your terminal and type: Git clone git@github.com:cangadev/My-portifolio.git<br>
+2* Type: cd /My-portifolio<br>
 3* Type: npm install or yarn<br>
 4* Type: npm start or yarn start<br>
 wait until the project opens in your browser<br><br>
@@ -24,8 +24,8 @@ estou em constante aprendizado resolvendo os desafios diários.<br><br>
 Esse é o meu portifólio profissional feito com ReactJs, onde poderás saber mais sobre as minhas
 habilidades.<br>
 ### Como abrir?
-1* Abri o seu terminal e digite: Git clone caminho-url <br>
-2* Digite: cd abrir entrar no projecto<br>
+1* Abri o seu terminal e digite: Git clone git@github.com:cangadev/My-portifolio.git<br>
+2* Digite: cd /My-portifolio<br>
 3* Digite: npm install ou yarn<br>
 4* Digite: npm start ou yarn start <br>
 espere até o projeto abrir no seu navegador<br><br>
