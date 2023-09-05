@@ -20,15 +20,15 @@ Leave a star and follow me.<br><br>
 Lúcio José Cardoso Canganjo é meu nome completo, Canga Dev é meu nome profissional, sou
 programador, estou ligado a área de tecnologia já há algum tempo por ser uma área que está em
 constante evolução e cada dia enfrento novo desafio e é exatamente isso que eu gosto “Desafios”, e
-estou em constante aprendizado resolvendo os desafios diários.
+estou em constante aprendizado resolvendo os desafios diários.<br><br>
 Esse é o meu portifólio profissional feito com ReactJs, onde poderás saber mais sobre as minhas
-habilidades.
-Como abrir?
-1* Abri o seu terminal e digite: Git clone caminho-url
-2* Digite: cd abrir entrar no projecto
-3* Digite: npm install ou yarn
-4* Digite: npm start ou yarn start
-espere até o projeto abrir no seu navegador
-Então, gostou do meu portifólio?
-Deixa uma estrela e me segue.
+habilidades.<br>
+### Como abrir?
+1* Abri o seu terminal e digite: Git clone caminho-url <br>
+2* Digite: cd abrir entrar no projecto<br>
+3* Digite: npm install ou yarn<br>
+4* Digite: npm start ou yarn start <br>
+espere até o projeto abrir no seu navegador<br><br>
+Então, gostou do meu portifólio?<br>
+Deixa uma estrela e me segue.<br>
 
