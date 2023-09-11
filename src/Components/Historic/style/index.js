@@ -19,6 +19,10 @@ export const contentHistoric = styled.div`
         font-weight: 700;
     }
 
+    @media(max-width: 500px) {
+        flex-direction: column;
+    }
+
     .contentDesc{
         width: 100%;
         border-radius: 10px;
@@ -50,7 +54,16 @@ export const contentHistoric = styled.div`
 `;
 export const contentSideLeft = styled.div`
     width: 49%;
+
+    @media(max-width: 500px) {
+        width: 100%;
+    }
 `;
 export const contentSideRight = styled.div`
     width: 49%;
+
+    @media(max-width: 500px) {
+        width: 100%;
+        margin-top: 25px;
+    }
 `;

@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const containerMyselfie = styled.div`
     width: 100%;
-    height: 600px;
+    padding: 40px 0px;
     color: white;
     display: flex;
     justify-content: center;
@@ -10,7 +10,6 @@ export const containerMyselfie = styled.div`
 `;
 export const contentMyselfie = styled.div`
     width: 85%;
-    height: 450px;
     display: flex;
     flex-direction: column;
     background-color: #151515;
@@ -56,6 +55,10 @@ export const contentMyselfie = styled.div`
     display: flex;
     justify-content: space-between;
 
+    @media (max-width: 850px) {
+        flex-direction: column;
+    }
+
     h3{
         margin-bottom: 25px;
     }
@@ -70,6 +73,10 @@ export const contentMyselfie = styled.div`
     .description-first-side{
         width: 50%;
 
+        @media (max-width: 850px) {
+        width: 100%;
+    }
+
         h3{
 
             span{
@@ -82,11 +89,26 @@ export const contentMyselfie = styled.div`
         display: flex;
         flex-direction: column;
 
+        @media (max-width: 850px) {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    h3{
+        @media (max-width: 420px) {
+                display: none;
+                     }
+    }
+
         div{
             width: 100%;
             display: flex;
             justify-content: space-between;
             height: 110px;
+
+            @media (max-width: 420px) {
+                display: none;
+                     }
 
             section{
                 width: 49%;
@@ -98,6 +120,20 @@ export const contentMyselfie = styled.div`
                     font-size: 17px;
                     border-bottom: 1px solid silver;
                     margin-bottom: 15px;
+
+                    @media (max-width: 980px){
+                        font-size: 12px;
+                    }
+                    @media (max-width: 850px) {
+                        font-size: 16px;
+                    }
+
+                    @media (max-width: 550px) {
+                        font-size: 14px;
+                     }
+                     @media (max-width: 495px) {
+                        font-size: 12px;
+                     }
                 }
             }
         }
@@ -107,6 +143,10 @@ export const contentMyselfie = styled.div`
             height: 70px;
             display: flex;
             align-items: center;
+
+        @media (max-width: 600px) {
+            justify-content: center;
+        }
 
             button{
                 margin-right: 15px;
