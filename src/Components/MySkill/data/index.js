@@ -1,37 +1,58 @@
 const data = [
     {
-      title: "IPHONE 12PRO MAX",
-      describe: "Descrição Do Apartamento Indisponível",
-      preco: "666.00",
+      title: "HTML5",
+      describe: "Linguagem de marcação de hipertextos",
       cart: "Add cart",    },
     {
-      title: "IPHONE 12PRO MAX",
-      describe: "Descrição Do Apartamento Indisponível",
-      preco: "666.00",
+      title: "CSS3",
+      describe: "Cascade style sheet",
       cart: "Add cart",
     },
     {
-      title: "IPHONE 12PRO MAX",
+      title: "PHP",
       describe: "Choice Australian Broccoli News 20kg",
-      preco: "666.00",
       cart: "Add cart",
     },
     {
-      title: "MÁQUINA DE SUMO",
-      describe: "Descrição Do Apartamento Indisponível",
+      title: "JAVASCRIPT",
+      describe: "Descrição Indisponível",
       preco: "10.000,00kz",
       cart: "Add cart",
     },
     {
-      title: "IPHONE I9S",
-      describe:"Descrição Do Apartamento Indisponível",
+      title: "TYPESCRIPT",
+      describe:"SuperSet javaScript, javaScript tipado",
       preco: "6.000,00kz",
       cart: "Add cart",
     },
     {
-      title: "IPHONE 12PRO MAX",
-      describe: "Descrição Do Apartamento Indisponível",
-      preco: "666.00",
+      title: "REACTJS",
+      describe: "Descrição Indisponível",
+      cart: "Add cart",
+    },
+    {
+      title: "STYLED-COMPONENTS",
+      describe: "Descrição Indisponível",
+      cart: "Add cart",
+    },
+    {
+      title: "NODEJS",
+      describe: "interpretador javaScript",
+      cart: "Add cart",
+    },
+    {
+      title: "DOCKER",
+      describe: "Descrição Indisponível",
+      cart: "Add cart",
+    },
+    {
+      title: "GIT",
+      describe: "Descrição Indisponível",
+      cart: "Add cart",
+    },
+    {
+      title: "SCRUM",
+      describe: "Metodologia Ágil",
       cart: "Add cart",
     }
   ];

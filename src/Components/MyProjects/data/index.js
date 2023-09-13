@@ -1,38 +1,58 @@
-const data = [
+
+
+
+const data=[
     {
-      title: "IPHONE 12PRO MAX",
-      describe: "Descrição Do Apartamento Indisponível",
-      preco: "666.00",
-      cart: "Add cart",    },
+        title:"GOLDEN_APP",       
+        path:"/dashclient",
+        describe: "Web project to condominium golden",
+        id:"Focu"
+    },
+    
     {
-      title: "IPHONE 12PRO MAX",
-      describe: "Descrição Do Apartamento Indisponível",
-      preco: "666.00",
-      cart: "Add cart",
+        title:"API_GOLDEN",
+        path:"/reservafeita",
+        describe: "Api of condominio golden informations",
+    }, 
+    {
+        title:"GAME_SUP",
+        path:"/contratosreading",
+        describe: "Game made with javaScript",
     },
     {
-      title: "IPHONE 12PRO MAX",
-      describe: "Choice Australian Broccoli News 20kg",
-      preco: "666.00",
-      cart: "Add cart",
+        title:"ANSWER-ME",
+        path:"/publications",
+        describe: "Questions game, made with Reactjs",
     },
     {
-      title: "MÁQUINA DE SUMO",
-      describe: "Descrição Do Apartamento Indisponível",
-      preco: "10.000,00kz",
-      cart: "Add cart",
+        title:"GREETING_APP",
+        path:"/publications",
+        describe: "Project description is not ready",
     },
     {
-      title: "IPHONE I9S",
-      describe:"Descrição Do Apartamento Indisponível",
-      preco: "6.000,00kz",
-      cart: "Add cart",
+        title:"Building...",
+        path:"/publications",
+        describe: "Project description is not ready",
     },
     {
-      title: "IPHONE 12PRO MAX",
-      describe: "Descrição Do Apartamento Indisponível",
-      preco: "666.00",
-      cart: "Add cart",
+        title:"Building...",
+        path:"/publications",
+        describe: "Project description is not ready",
+    },
+    {
+        title:"Building...",
+        path:"/publications",
+        describe: "Project description is not ready",
+    },
+    {
+        title:"Building...",
+        path:"/publications",
+        describe: "Project description is not ready",
+    },
+    {
+        title:"Building...",
+        path:"/publications",
+        describe: "Project description is not ready",
     }
-  ];
-  export default data;
+]
+export {data}

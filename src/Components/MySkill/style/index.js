@@ -89,5 +89,6 @@ export const Card = styled.div`
     }
     p{
         color: silver;
+        font-size: 15px;
     }
 `;

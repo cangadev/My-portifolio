@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import IMG from "../../../images/tendencias_software.png"
 
 export const containerMyProject = styled.div`
     width: 100%;
@@ -54,16 +55,40 @@ export const contentMyProject = styled.div`
 export const Card = styled.div`
     width: 200px;
     height: 200px;
-    background-color: rgb(101, 209, 241);
+    background-image: url(${IMG});
+    background-size: cover;
     border-radius: 10px;
     margin: 10px;
     display: flex;
+
+    a{
+    color: black;
+    padding: 0 10px;
+    border-radius: 10px;
+    height: 200px;
+        width: 100%;
+    display: flex;
     justify-content: center;
+  background-color: rgba(101, 208, 241, 0.550);
     flex-direction: column;
     align-items: center;
     text-align: center;
     padding: 0 10px;
-    color: black;
+
+    @media(max-width: 517px){
+    width: 150px;
+    height: 150px;
+    }
+    @media(max-width: 399px){
+    width: 140px;
+    height: 150px;
+    }
+    @media(max-width: 376px){
+    width: 130px;
+    height: 150px;
+    font-size: 14px;
+    }
+    }
 
     @media(max-width: 517px){
     width: 150px;
@@ -87,5 +112,8 @@ export const Card = styled.div`
     }
     h4{
         margin: 10px 0px;
+    }
+    p{
+        font-size: 15px;
     }
 `;

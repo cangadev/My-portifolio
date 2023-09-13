@@ -6,6 +6,8 @@ import Myselfie from "../../Components/MySelfie";
 import Historic from "../../Components/Historic";
 import MySkill from "../../Components/MySkill";
 import MyProject from "../../Components/MyProjects";
+import Contact from "../../Components/Contact";
+import { Footer } from "../../Components/Footer";
 
 function Home() {
   return (
@@ -16,6 +18,8 @@ function Home() {
     <Historic/>
     <MySkill/>
     <MyProject/>
+    <Contact/>
+    <Footer/>
     </>
   ); 
 }

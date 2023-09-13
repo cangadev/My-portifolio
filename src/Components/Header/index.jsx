@@ -32,7 +32,7 @@ export default function Header({ page }) {
               <Link to="/jobs"> MySelfie </Link>
             </li>
             <li>
-              <Link to="/testevocacional"> Skills</Link>
+              <Link to="/bala"> Skills</Link>
             </li> 
             <li>
               <Link to="/formation"> Projects </Link>
