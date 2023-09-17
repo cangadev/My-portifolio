@@ -23,7 +23,7 @@ constante evolução e cada dia enfrento novo desafio e é exatamente isso que e
 estou em constante aprendizado resolvendo os desafios diários.<br><br>
 Esse é o meu portifólio profissional feito com ReactJs, onde poderás saber mais sobre as minhas
 habilidades.<br>
-### Como abrir?
+### Como abrir? 
 1* Abri o seu terminal e digite: Git clone git@github.com:cangadev/My-portifolio.git<br>
 2* Digite: cd /My-portifolio<br>
 3* Digite: npm install ou yarn<br>
