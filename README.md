@@ -6,7 +6,7 @@ programmer, I have been connected to the technology area for some time now becau
 constant evolution and every day I face a new challenge and that's exactly what I like about “Challenges”, and
 I am in constant learning solving daily challenges. <br><br>
 This is my professional portfolio made with ReactJs, where you can find out more about my
-skills.<br>
+skills.<br> 
 ### How to open?
 1* Open your terminal and type: Git clone git@github.com:cangadev/My-portifolio.git<br>
 2* Type: cd /My-portifolio<br>
