@@ -16,7 +16,7 @@ wait until the project opens in your browser<br><br>
 So, did you like my portfolio?<br>
 Leave a star and follow me.<br><br>
 
-========== pt ============ <br>
+========== pt ============ <br> 
 Lúcio José Cardoso Canganjo é meu nome completo, Canga Dev é meu nome profissional, sou
 programador, estou ligado a área de tecnologia já há algum tempo por ser uma área que está em
 constante evolução e cada dia enfrento novo desafio e é exatamente isso que eu gosto “Desafios”, e
