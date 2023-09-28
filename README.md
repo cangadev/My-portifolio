@@ -9,7 +9,7 @@ This is my professional portfolio made with ReactJs, where you can find out more
 skills.<br>
 ### How to open?
 1* Open your terminal and type: Git clone git@github.com:cangadev/My-portifolio.git<br> 
-2* Type: cd /My-portifolio<br>
+2* Type: cd /My-portifolio<br> 
 3* Type: npm install or yarn<br> 
 4* Type: npm start or yarn start<br>
 wait until the project opens in your browser<br><br>
