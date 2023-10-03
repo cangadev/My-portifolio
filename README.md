@@ -1,5 +1,5 @@
 # 👋 My_portifolio 👨‍✈️
-
+ 
 ## 📄 Descrição Geral 📄
 Lúcio José Cardoso Canganjo is my full name, Canga Dev is my professional name, I am
 programmer, I have been connected to the technology area for some time now because it is an area that is in
