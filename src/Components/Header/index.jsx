@@ -29,16 +29,16 @@ export default function Header({ page }) {
               <Link to="/"> Home </Link>
             </li>
             <li>
-              <Link to="/jobs"> MySelfie </Link>
+              <Link to="/"> MySelfie </Link>
             </li>
             <li>
-              <Link to="/bala"> Skills</Link>
+              <Link to="/"> Skills</Link>
             </li> 
             <li>
-              <Link to="/formation"> Projects </Link>
+              <Link to="/"> Projects </Link>
             </li>
             <li>
-              <Link to="/noticias"> Contact </Link>
+              <Link to="/"> Contact </Link>
             </li>
           </ul>
         </nav>

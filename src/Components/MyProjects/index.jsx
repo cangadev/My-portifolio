@@ -4,6 +4,7 @@ import { data } from "./data/index";
 import { Link } from "react-router-dom";
 
 function MyProject() {
+
   return (
     <> 
       <S.containerMyProject>
@@ -14,7 +15,7 @@ function MyProject() {
           {
           data.map((item, index)=>( 
 
-          <S.Card key={index}>
+          <S.Card key={index} className="card">
             <Link key={index} to={item.path}>
             <div></div>
             <h4 key={index}> {item.title} </h4>
